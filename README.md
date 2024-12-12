@@ -1,1 +1,1 @@
-# pymujoco
+# mujocox
